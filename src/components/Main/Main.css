@@ -1,0 +1,18 @@
+.main-container {
+  display: flex;
+}
+.course-container {
+  width: 70%;
+  border-right: 1px solid lightgray;
+  margin-left: 20px;
+  margin-right: 5px;
+  background-color: rgb(195, 245, 243);
+}
+.enrolled-container {
+  width: 30%;
+  background-color: rgb(109, 148, 170);
+}
+
+.heading {
+  color: tomato;
+}

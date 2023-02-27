@@ -1,0 +1,21 @@
+.courses {
+  display: flex;
+  height: 280px;
+  border-bottom: 1px solid lightgray;
+}
+.image-section {
+  width: 310px;
+}
+/* .image {
+  height: 80%;
+  width: 90%;
+  padding-top: 10px;
+} */
+.enroll-button {
+  background-color: rgb(30, 157, 114);
+  width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid rgb(37, 190, 228);
+  cursor: pointer;
+}
