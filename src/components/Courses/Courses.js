@@ -15,6 +15,7 @@ const Courses = (props) => {
         <h5> ${price}</h5>
         <br />
         <br />
+        {/* <br/> */}
         <button className="enroll-button" onClick={() => props.handleAddCourse(props.course)}>
           Enroll Now
         </button>
